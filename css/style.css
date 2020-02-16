@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower|Ubuntu&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower|Ubuntu&display=swap");
+
+
+@import url("components/avatar.css");
+@import url("components/bouton.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+
+
+
+body{
+font-family: 'Ubuntu', sans-serif; 
+font-size: 18px;
+ }
+ h1, h2, h3 {
+ 	font-family: 'Indie Flower', cursive;
+ 	font-weight: bold;
+ }
+ h1 {color: rgb(200, 230,120);}
+a{text-decoration: none;}
